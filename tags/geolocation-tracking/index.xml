@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geolocation Tracking | Bradley D. Mattan, Ph.D.</title>
+    <link>https://bmattan.github.io/tags/geolocation-tracking/</link>
+      <atom:link href="https://bmattan.github.io/tags/geolocation-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geolocation Tracking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 10:55:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bmattan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Geolocation Tracking</title>
+      <link>https://bmattan.github.io/tags/geolocation-tracking/</link>
+    </image>
+    
+    <item>
+      <title>GeoScan Smoking Study</title>
+      <link>https://bmattan.github.io/project/geoscan/</link>
+      <pubDate>Sun, 19 Apr 2020 10:55:00 +0000</pubDate>
+      <guid>https://bmattan.github.io/project/geoscan/</guid>
+      <description>&lt;p&gt;As an R01-funded project within the 
+&lt;a href=&#34;https://cn.asc.upenn.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Communication Neuroscience Lab&lt;/a&gt;, GeoScan uses an innovative set of methods to test whether repeated, real-world exposure to point-of-sale tobacco marketing (POSTM) affects smoking behavior, and whether this is mediated by heightened craving and neural responses to POSTM. This novel multi-method approach includes mobile-phone based geolocation tracking, ecological momentary assessment (EMA), and functional magnetic resonance imaging (fMRI). By adding the ecological validity of observational field methods to the mechanistic insight of neuroimaging, and causal inferences from an experimental design, GeoScan aims to significantly advance actionable insight about POSTM effects in cancer control. Analyses will examine the extent to which POSTM increases brain responses to smoking cues as well as subjective craving, leading to increased smoking behavior&amp;ndash;a leading cause of cancer.&lt;/p&gt;
+&lt;p&gt;In addition to helping manage GeoScan, I am interested in expanding the aims of this project to include a focus on health disparities. We are currently developing a set of questions that is motivated by existing work on economic inequality and its negative impacts on health and well-being. Because much of the existing literature has approached this relationship at the society level (e.g., large surveys and public archives), it can be difficult to pinpoint the immediate psychological mechanisms linking inequality and actual health behaviors like smoking. Fortunately, the multi-modal approach of GeoScan provides several opportunities to examine the psychological mechanisms underlying not only effects of POSTM exposure on smoking but also more broadly the short-term effects of inequality exposure on smoking, which is a leading cause of cancer. Concretely, we propose to study the following questions:&lt;/p&gt;
+&lt;p&gt;(1) Does increasing exposure to socioeconomic inequality (defined by the gini coefficient of one’s current location over the course of the day) increase key smoking outcomes: smoking frequency, smoking cravings, and neural patterns associated with reward/positivity in response to smoking cues?&lt;/p&gt;
+&lt;p&gt;(2) What are the long-term consequences of exposure to economic inequality (defined by the gini coefficient of one’s primary childhood address)?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

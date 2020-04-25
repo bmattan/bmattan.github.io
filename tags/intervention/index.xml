@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intervention | Bradley D. Mattan, Ph.D.</title>
+    <link>https://bmattan.github.io/tags/intervention/</link>
+      <atom:link href="https://bmattan.github.io/tags/intervention/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intervention</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 13:19:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bmattan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Intervention</title>
+      <link>https://bmattan.github.io/tags/intervention/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 Projects</title>
+      <link>https://bmattan.github.io/project/covid-19/</link>
+      <pubDate>Sun, 19 Apr 2020 13:19:00 +0000</pubDate>
+      <guid>https://bmattan.github.io/project/covid-19/</guid>
+      <description>&lt;p&gt;During the COVID-19 pandemic, the 
+&lt;a href=&#34;https://cn.asc.upenn.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Communication Neuroscience Lab&lt;/a&gt; has been actively studying what kind of messaging effectively encourages critical health behaviors (e.g., sheltering in place) and greater compassion (e.g., checking in on and supporting vulnerable people). Working together with my fellow lab mates, I have been involved in two core projects focused on COVID-19.&lt;/p&gt;
+&lt;h1 id=&#34;narrative-messaging&#34;&gt;Narrative Messaging&lt;/h1&gt;
+&lt;p&gt;Narrative messages are first-person accounts describing someone&amp;rsquo;s personal story. Narrative messages can reduce defensiveness and increase engagement with the message content through relatable protagonists. In this project, we are examining how narrative messaging can be used to increase concern for and actions favoring people who are especially vulnerable at this time (e.g., unemployed people, healthcare workers, prisoners). Preliminary results from this project suggest that concern for the vulnerable depends on one&amp;rsquo;s perceived interdependence on others, one&amp;rsquo;s current employment situation, and/or one&amp;rsquo;s immediate reactions to the message itself.&lt;/p&gt;
+&lt;h1 id=&#34;social-networks&#34;&gt;Social Networks&lt;/h1&gt;
+&lt;p&gt;In another project that is still in its early stages, I am working to understand how characteristics of one&amp;rsquo;s social network (e.g., how connected is everyone within the participant&amp;rsquo;s social network?) might shape receptivity to and sharing of COVID-19-related content on social media.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
