@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health Messaging | Bradley D. Mattan, Ph.D.</title>
+    <link>https://bmattan.github.io/tags/health-messaging/</link>
+      <atom:link href="https://bmattan.github.io/tags/health-messaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Health Messaging</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jan 2021 19:33:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bmattan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Health Messaging</title>
+      <link>https://bmattan.github.io/tags/health-messaging/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Receptivity to Health Messaging with fMRI</title>
+      <link>https://bmattan.github.io/project/pa2/</link>
+      <pubDate>Sat, 02 Jan 2021 19:33:00 +0000</pubDate>
+      <guid>https://bmattan.github.io/project/pa2/</guid>
+      <description>&lt;p&gt;Differentiating the neural representations of self-relevance and valence is important because perceptions of message relevance and message valence may distinctively predict message effectiveness. In this study, I used a data-driven method to identify separate patterns of neural co-activation indexing judgments of self-relevance and valence and then explored how these patterns can be used to predict receptivity to health messaging.&lt;/p&gt;
+&lt;p&gt;Using fMRI data from a localizer task that asks participants to judge the self-relevance and valence of trait adjectives, I conducted two separate partial least squares (PLS) analyses. Each PLS analysis contrasted either self-relevance or valence judgments with a letter case judgment control task. Despite high overall similarity between the resulting maps, r=.95, I identified a cortical midline pattern (VMPFC/PCC) that showed maximal divergence between the self-relevance and valence judgment patterns (see Figure). For each whole-brain and midline-masked map, I computed trial-wise dot product similarity to betaseries images reflecting neural responses to messages in a separate messaging task promoting physical activity in 158 sedentary adults. I then used these trial-wise similarity scores to predict message ratings and subsequently measured changes in everyday physical activity.&lt;/p&gt;
+&lt;p&gt;Similarity to either whole-brain PLS map (i.e., for self-relevance or valence) was associated with: (1) lower in-scan ratings of relevance of messages, and (2) less post-scan message agreement. In sum, similarity to whole-brain neural patterns tracking deliberation about the self-relevance or valence of information was associated with reduced message receptivity, suggesting possible counterarguing. Within the midline-masked images, I found that similarity to the masked valence judgment map was generally associated with lower message receptivity, as in the whole-brain similarity analyses. However, trial-wise similarity to the masked self-relevance judgment map was associated with increased message receptivity.&lt;/p&gt;
+&lt;p&gt;These findings suggest that increased coactivation between the VMPFC and PCC that arises during deliberate judgments of self-relevance may be part of a neural signature underlying message receptivity. Moving beyond a focus on mean activity in singular brain regions, these findings highlight potential predictive utility of commonalities and differences in the neural patterns of coactivation underlying judgments about self-relevance and valence. Specifically, coordinated neural activity within the VMPFC/PCC resembling patterns that arise during judgments about self-relevance (and not valence) are associated with increased receptivity to message-based interventions promoting real-world physical activity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Projects</title>
+      <link>https://bmattan.github.io/project/covid-19/</link>
+      <pubDate>Sat, 02 Jan 2021 16:58:00 +0000</pubDate>
+      <guid>https://bmattan.github.io/project/covid-19/</guid>
+      <description>&lt;p&gt;During the COVID-19 pandemic, the &lt;a href=&#34;https://cn.asc.upenn.edu/&#34; target=&#34;_blank&#34;&gt;Communication Neuroscience Lab&lt;/a&gt; has been actively studying what kind of messaging effectively encourages actions that benefit public health (e.g., wearing masks, avoiding large social gatherings) and greater compassion (e.g., checking in on and supporting vulnerable people). Working together with my fellow lab mates, I have been involved in three manuscripts that investigate how people respond to COVID-19 and pandemic-related health messaging.&lt;/p&gt;
+&lt;h1 id=&#34;dispositional-victimhood&#34;&gt;Dispositional Victimhood&lt;/h1&gt;
+&lt;p&gt;Dispositional victimhood (i.e., someone&amp;rsquo;s tendency to feel like a victim in general, not just in the pandemic) has been associated with lower empathy and greater sensitivity to threats. In one study with over 600 participants, we found that dispositional victimhood was associated with more positive responses to stories of people suffering during the pandemic. This greater positivity predicted less support for policies aimed at slowing the spread of the coronavirus and greater support for quickly reopening the economy. In a registered report (under review), we aim to replicate this finding, testing for specific mechanisms such as empathy and schadenfreude.&lt;/p&gt;
+&lt;h1 id=&#34;narrative-messaging&#34;&gt;Narrative Messaging&lt;/h1&gt;
+&lt;p&gt;Narrative messages are first-person accounts describing someone&amp;rsquo;s personal story. Narrative messages can reduce defensiveness and increase engagement with the message content through relatable protagonists. In this student-led project, we are examining how narrative messaging (vs. matter-of-fact expository messaging) can be used to increase concern for and actions favoring people who are especially vulnerable at this time (e.g., unemployed people, healthcare workers, prisoners). Participants in the narrative condition reported greater transportation into the message compared to participants in the expository condition. Consistent with our pre-registered predictions, we also observed indirect effects of narrative (vs. expository) messages, through increased message transportation, on: (1) beliefs that by physical distancing, one can protect vulnerable people, (2) beliefs that members of the target groups (i.e., healthcare workers and people who are incarcerated) were vulnerable, (3) intentions to engage in prosocial behaviors that help family and friends, and (4) intentions to engage in prosocial behaviors that help members of vulnerable groups. Together these results suggest that narratives can be used to motivate prosocial action during the COVID-19 pandemic to the extent that the narratives elicit transportation.&lt;/p&gt;
+&lt;h1 id=&#34;collectivism&#34;&gt;Collectivism&lt;/h1&gt;
+&lt;p&gt;In this student-led project, we hypothesized that collectivism, a cultural variable characterizing the extent that individuals see themselves in relation to others, contributes to people’s willingness to adhere to public health guidance (e.g., mask wearing, social distancing). Consistent with preregistered predictions, across three studies (n=2864), including a U.S. nationally representative sample, people’s collectivist orientation was positively associated with intentions, positive beliefs, norm perceptions, and policy support for the preventive behaviors. In separate analyses at the country level (n=69 countries), more collectivist countries demonstrated lower growth rate in both COVID-19 confirmed cases and deaths. Together, these studies demonstrate the positive role of collectivism at the individual- and country-level in reducing COVID-19 transmission, and highlight the need to consider culture in public health policies and communications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
